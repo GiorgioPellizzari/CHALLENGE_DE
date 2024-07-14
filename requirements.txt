@@ -2,3 +2,6 @@ memory-profiler==0.61.0
 emoji
 pandas
 re
+json
+collections
+datetime
